@@ -1,0 +1,12 @@
+
+/* Arrow embedded in a font for use in the interface */
+@font-face {
+font-family: 'icomoon';
+src:url(https://static.canva.com/static/fonts/icomoon.eot);
+src:url(https://static.canva.com/static/fonts/icomoon.eot?#iefix) format('embedded-opentype'),
+url(https://static.canva.com/static/fonts/icomoon.svg#icomoon) format('svg'),
+url(https://static.canva.com/static/fonts/icomoon.woff) format('woff'),
+url(https://static.canva.com/static/fonts/icomoon.ttf) format('truetype');
+font-weight: normal;
+font-style: normal;
+}
